@@ -1,2 +1,0 @@
-# plan-pengeluaran
-plan pengeluaran
